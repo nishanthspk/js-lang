@@ -1,1 +1,1 @@
-# c-lang
+# js-lang
